@@ -1,0 +1,65 @@
+TUBERCULOSE - Casos confirmados notificados no Sistema de Informação de Agravos de Notificação - Pernambuco
+Casos confirmados por Ano Diagnóstico e Situação Encerra.
+Período:2001-2024
+"Ano Diagnóstico";"Ign/Branco";"Cura";"Abandono";"Óbito por tuberculose";"Óbito por outras causas";"Transferência";"TB-DR";"Mudança de Esquema";"Falência";"Abandono Primário";"Total"
+"2001";156;2844;751;4;402;398;3;1;1;-;4560
+"2002";86;3121;628;4;382;641;12;1;-;-;4875
+"2003";78;3260;646;23;418;728;11;3;-;-;5167
+"2004";72;3521;652;24;442;747;6;2;-;-;5466
+"2005";68;3485;627;37;412;690;9;2;-;-;5330
+"2006";17;3359;488;52;362;613;8;2;-;-;4901
+"2007";42;3289;525;237;194;537;16;-;-;-;4840
+"2008";26;3305;635;228;188;595;15;1;-;-;4993
+"2009";34;3194;695;199;242;637;29;1;-;-;5031
+"2010";41;3282;806;202;206;610;38;-;-;-;5185
+"2011";36;3416;782;178;253;691;46;-;-;-;5402
+"2012";48;3518;815;243;278;757;41;1;1;-;5702
+"2013";79;3388;756;255;247;672;26;2;-;1;5426
+"2014";38;3422;660;262;312;696;35;5;6;12;5448
+"2015";93;3558;596;329;341;657;42;21;9;9;5655
+"2016";76;3531;546;302;343;632;47;23;8;16;5524
+"2017";39;3840;647;389;293;685;36;21;7;16;5973
+"2018";37;3787;675;337;294;744;32;27;5;17;5955
+"2019";48;3944;682;338;284;832;40;31;5;29;6233
+"2020";58;3426;696;273;355;676;24;28;8;27;5571
+"2021";132;3697;800;285;300;768;28;20;10;26;6066
+"2022";506;3950;898;327;270;1026;37;34;5;35;7088
+"2023";1192;3560;932;392;222;1052;30;24;-;40;7444
+"2024";3360;1680;575;348;206;1050;31;19;3;22;7294
+"Total";6362;81377;16513;5268;7246;17134;642;269;68;250;135129
+ Fonte: Ministério da Saúde/SVSA - Sistema de Informação de Agravos de Notificação - Sinan Net 
+ Notas:
+ 
+ Excluídos os registros encerrados com mudança de diagnóstico.
+ Períodos disponíveis - Correspondem aos anos de diagnóstico dos casos (até 2024).
+ Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável de interesse,
+     e na coluna a variável "Ano do diagnóstico"; em "Períodos Disponíveis" assinale o ano inicial da série
+     e todos os posteriores até o ano atual (para incluir casos notificados com atraso) e em "Seleções Disponíveis"
+     assinale os anos do diagnóstico: - Ex. para tabular o nº de casos diagnosticados em 2007 segundo UF de residência
+     selecione: na linha a "UF de residência" na Coluna a variável "Ano do diagnóstico" em Períodos disponíveis 2007
+     até o ano atual em Seleções o "Ano do diagnóstico" de 2007.
+ Para cálculo da incidência selecione o local de residência e as seguintes categorias da variável "Tipo de entrada":
+     caso novo, não sabe e pós óbito.
+ A variável "Beneficiário de programa de transferência de renda do governo" não contém dados do Estado de São Paulo (SP).
+     Quanto a variável "Terapia antirretroviral durante o tratamento da TB", os dados do estado de SP foram inseridos
+     a partir do segundo semestre de 2016.
+ Não é possível calcular indicadores relacionados aos contatos de tuberculose.
+ Em 2014, foram incluídas as seguintes variáveis no Sinan Net (Tuberculose): populações especiais (população privada de
+     liberdade, população em situação de rua, profissional de saúde e imigrante), doenças e agravos associados (uso de drogas
+     ilícitas e tabagismo), beneficiário de programa de transferência de renda do governo, terapia antirretroviral durante o
+     tratamento para a TB, teste molecular rápido TB (TRM-TB) e teste de sensibilidade; as categorias: pós-óbito na variável
+     tipo de entrada; e as categorias: mudança de esquema, falência e abandono primário na variável situação de encerramento.
+     Por conta disso, não há informações para essas variáveis em anos anteriores.
+ A variável "institucionalizado" foi descontinuada em 2015. Portanto, para análise referente à população privada de
+     liberdade após esse período, utilizar a variável "PPL" (população privada de liberdade).
+ Para informações detalhadas sobre o Sinan – Tuberculose e sobre as análises de indicadores epidemiológicos e operacionais
+     da tuberculose, acessar o link: http://portalsinan.saude.gov.br/tuberculose
+ Em caso de dúvidas, encaminhar e-mail para: tuberculose@saude.gov.br
+ Dados de 2001 a 2019 estão finalizados.
+ Dados de 2020 a 2024 atualizados em 05/2025, sujeitos à revisão.
+ Dados a partir de 2020 referentes ao estado do Espírito Santo são oriundos do Sistema de Informação e-SUS VS, em uso
+     pelo estado desde janeiro de 2020.
+ Dados referentes ao estado de São Paulo são oriundos do Sistema de Controle de Pacientes com Tuberculose TBWEB.
+  Dados disponibilizados no TABNET em 05/2025, após homologação da Coordenação Geral de Vigilância da
+     Tuberculose, Micoses Endêmicas e Micobactérias não Tuberculosas /CGTM/SVSA.
+ 
